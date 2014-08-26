@@ -1,5 +1,16 @@
 <?php $this->pageTitle=Yii::app()->name; ?>
 
-<h1>Welcome to <i><?php echo CHtml::encode(Yii::app()->name); ?></i></h1>
+<h1>Welcome to <i>User</i></h1>
 
-<h1> user form </h1>
+<div class="clear2"></div>
+<div class="alert alert-success">
+  <h4>Thông báo !</h4>
+  Mọi ý kiến của thành viên xin gửi về địa chỉ hòm thư duy nhất (<i>Có ghi ở dưới</i>). Chúng tôi sẽ giải quyết các ý kiến của thành viên một cách sớm nhất. Nếu gửi thư xin vui lòng ghi rõ tên và địa chỉ chi tiết để chúng tôi có thể hỗ trợ.
+  <br/>
+</div>
+
+<h3>BQT Hệ thống quản lý</h3>
+Địa chỉ: 
+<br/>
+Số điện thoại: <span class="badge badge-info">043.....</span> - <span class="badge badge-info"> 09.....</span>
+<br/>Hòm thư điện tử: <span class="badge badge-warning">abc@example.com</span> 
